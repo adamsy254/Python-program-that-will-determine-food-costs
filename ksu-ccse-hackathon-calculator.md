@@ -1,14 +1,16 @@
 # KSU CCSE Hackathon Food Cost Calculator
 
-# Program Name: Lab2.py
-# Whatsapp +254702896107
-# Student Name: Adams muema
-# Assignment Number: Lab 2
-# Gmail. adamsmuema19@gail.com
-# Purpose: This program calculates the food costs for the KSU CCSE hackathon using a GUI.
-#          It allows users to input the number of pizza and salad orders and calculates
-#          the total cost, applying discounts and a delivery charge.
-# Specific Resources Used: Python documentation, course notes.  
+Reachout for assignment help 
+
+whatsapp +254702896107
+Gmail adamsmuema19@gmail.com
+
+## Program Information
+- **Program Name**: Lab2.py  
+- **Course**: IT1114/Section XXX  
+- **Student Name**: John Doe  
+- **Assignment Number**: Lab#  
+- **Due Date**: xx/xx/20xx 
 
 ## Purpose
 This program calculates the total food costs for the KSU CCSE hackathon, including pizza and salad orders. It determines the required number of pizzas and their costs, accounts for discounts on large orders, calculates delivery charges, and outputs the total amount due. The program features a user-friendly graphical user interface (GUI) to make input and output easy to manage.
